@@ -161,3 +161,8 @@ Successfully saved display to: plots/spill_0_all_ixn0.png
 
 - `ndlar_caf_display_helpers.py` - Core helper module with data parsing and rendering logic
 - `ndlar_caf_display.ipynb` - Original Jupyter notebook with interactive examples
+
+---
+
+## Contact
+- Linda Cremonesi (l.cremonesi@imperial.ac.uk) - current lead author, maintener
